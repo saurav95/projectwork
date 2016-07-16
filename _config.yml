@@ -1,2 +1,2 @@
-baseurl: /projectwork/
+baseurl: /projectwork
 exclude: ['README.md']
