@@ -1,0 +1,2 @@
+baseurl: /projectwork/
+exclude: ['README.md']
